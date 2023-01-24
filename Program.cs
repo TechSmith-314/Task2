@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             string playerName = "Player";
-            bool onMission = true;
+            bool isOnAMission = true;
             char playerEqipRang = 'C';
             byte playerLevel = 39;
             uint playerHealth = 100500;
